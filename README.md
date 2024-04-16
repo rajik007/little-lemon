@@ -1,14 +1,24 @@
-# little-lemon
-Little Lemon
+#                                             Little-lemon
+
 The little lemon app is the capstone project for Meta's Front-End Developer Certificate on Coursera.
-Technologies
+
+# Technologies 🧑‍💻
 This project was developed with the following technologies:
-React JS
+
+• React JS
+
 • Typescript
+
 • Styled Components
-Yup
-Formik
-Jest
+
+• Yup
+
+• Formik
+
+• Jest
+
 • React Testing Library
-Git and Github
-Figma
+
+• Git and Github
+
+• Figma
